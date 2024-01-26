@@ -1,5 +1,5 @@
 
-# American Express - Default Prediction Project README
+# American Express - Default Prediction
 
 ## Introduction
 This project focuses on predicting credit card defaults using the American Express dataset. The process involves data preprocessing, feature engineering, model training using LightGBM and XGBoost, and finally, making predictions for submission.
